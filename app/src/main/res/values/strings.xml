@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Search shared preference</string>
+    <string-array name="countries">
+        <item>Afganistan</item>
+        <item>Bangladesh</item>
+        <item>china</item>
+        <item>England</item>
+        <item>Finland</item>
+        <item>Holand</item>
+        <item>India</item>
+        <item>Largeland</item>
+        <item>neatheland</item>
+        <item>pakistan</item>
+        <item>africa</item>
+        <item>poland</item>
+    </string-array>
+</resources>

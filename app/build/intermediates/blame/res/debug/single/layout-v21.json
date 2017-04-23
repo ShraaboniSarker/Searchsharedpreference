@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/kakoli/Downloads/Assignment/Searchsharedpreference/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/kakoli/.android/build-cache/182463ced479de9e5b0ccaadc614f8afc3e243df/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/kakoli/Downloads/Assignment/Searchsharedpreference/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/kakoli/.android/build-cache/182463ced479de9e5b0ccaadc614f8afc3e243df/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/kakoli/Downloads/Assignment/Searchsharedpreference/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/kakoli/.android/build-cache/182463ced479de9e5b0ccaadc614f8afc3e243df/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/kakoli/Downloads/Assignment/Searchsharedpreference/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/kakoli/.android/build-cache/182463ced479de9e5b0ccaadc614f8afc3e243df/output/res/layout-v21/notification_action.xml"
+    }
+]

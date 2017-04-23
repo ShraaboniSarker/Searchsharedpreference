@@ -1,0 +1,7 @@
+#Sun Apr 23 14:57:36 BDT 2017
+base.0=/home/kakoli/Downloads/Assignment/Searchsharedpreference/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2b966136fdc1d17577e0f6c142f6ef55ad2ed489
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/kakoli/Downloads/Assignment/Searchsharedpreference/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2323fb55ea44d15fba15079affcae3b7a55d0658/classes.dex
+base.1=/home/kakoli/Downloads/Assignment/Searchsharedpreference/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2323fb55ea44d15fba15079affcae3b7a55d0658
+file.0=/home/kakoli/Downloads/Assignment/Searchsharedpreference/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2b966136fdc1d17577e0f6c142f6ef55ad2ed489/classes.dex
